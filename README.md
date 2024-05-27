@@ -8,12 +8,15 @@ Once installed, you can find the merchant in Waukeen's Promenade in the building
 Below are examples of some of the ware Aelar has to offer!
 
 Vampiric Star +2:
+
 ![Baldur_Lwl71y6Qry](https://github.com/ShadowfireAngel/Aelar-Wares/assets/73798461/f27c1b3c-3d39-41b5-9e49-b556822902f9)
 
 Ironclad Scale Mail:
+
 ![Baldur_UdBiCTtbXB](https://github.com/ShadowfireAngel/Aelar-Wares/assets/73798461/7a1f2fb2-1e1b-4778-8003-aec873cd2fed)
 
 Headsman's Charge +2:
+
 ![Baldur_wssCxugDfc](https://github.com/ShadowfireAngel/Aelar-Wares/assets/73798461/d55e417f-715f-4335-80e2-1042b0f3be58)
 
 Aelar currently has a total of eight items to offer to new and veteran adventurers. Make sure to stop to see what he has to offer and keep an eye on his stocks; he is always looking to add more wares to his store!
