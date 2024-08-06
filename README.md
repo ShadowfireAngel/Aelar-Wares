@@ -19,7 +19,8 @@ Headsman's Charge +2:
 
 ![Baldur_wssCxugDfc](https://github.com/ShadowfireAngel/Aelar-Wares/assets/73798461/d55e417f-715f-4335-80e2-1042b0f3be58)
 
-Aelar currently has a total of eight items to offer to new and veteran adventurers. Make sure to stop to see what he has to offer and keep an eye on his stocks; he is always looking to add more wares to his store!
+Aelar currently has a total of eight items to offer to new and veteran adventurers. Make sure to stop by to see what he has to offer and keep an eye on his stocks; he is always looking to add more wares to his store!
 
 # Known Issues
 - The Enumclaw Dagger provides only one charge of Call Lightning upon purchasing but will still provide two charges after resting.
+- The map pin that displays on the area map does not display the name of the store presently but is in the correct location.
