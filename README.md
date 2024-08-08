@@ -23,4 +23,3 @@ Aelar currently has a total of eight items to offer to new and veteran adventure
 
 # Known Issues
 - The Enumclaw Dagger provides only one charge of Call Lightning upon purchasing but will still provide two charges after resting.
-- The map pin that displays on the area map does not display the name of the store presently but is in the correct location.
