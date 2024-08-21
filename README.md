@@ -5,6 +5,8 @@ This mod adds an NPC with a store to the game in Waukeen's Promenade. To install
 
 Once installed, you can find the merchant in Waukeen's Promenade in the building west of Cernd's home and just north-west of the Blacksmith. Aelar provides a vareity of magical wares that are sure to aid you in any adventure you choose to undertake. Some of the items provide simple benefits and bonuses while others provide far more powerful benefits...but they come with a cost/risk.
 
+There should be compatability issues with other mods unless they make use of the same store Aelar is in. This mod should also be fully compatabile with EET (to be tested).
+
 PLEASE NOTE: Once installed, Maheer (Storekeep near Quataris) will no longer appear inside his store during night hours and as such, the building will be empty during night hours. Maheer can still be found in his usual location during day hours however.
 
 Below are examples of some of the wares Aelar has to offer!
