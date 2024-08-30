@@ -5,14 +5,14 @@ Below is a brief list of what can be found in Aelar's store:
 - A dagger & battle axe pair that are electricity themed.
 - A two-handed sword that hits especially hard on deadly strikes.
 - A cursed morningstar that will sustain the wielder's lifeforce but comes with a dangerous cost.
-- A razor sharp longsword capable at severing heads but require some of the wielder's life and experience as payment.
+- A razor sharp longsword capable at severing heads but requires some of the wielder's life and experience as payment.
 - A suit of scale mail armour that provides the wearer with great resistance to physical blows.
 - A helmet that will protect the wearer from severe cold.
 - A ring that will make the wearer harder to hit.
 - A vareity of potions that offer different effects from Stoneskin to Bless.
 
 # Installation & Compatability
-Extract the contents of the mod to your Baldur's Gate II: Enhanced Edition folder, run the _SAelar.exe file, follow the steps.
+Extract the contents of the mod to your Baldur's Gate II: Enhanced Edition folder, run the setup-_SAelar.exe file, follow the steps.
 
 There shouldn't be any compatability issues with other mods unless they make use of the same store Aelar is in. This mod should also be fully compatabile with EET.
 
