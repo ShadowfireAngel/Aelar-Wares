@@ -1,0 +1,27 @@
+// Component Installation
+
+@1 = ~Aelar's Emporium of Magical Wares~
+
+// Store + Storekeeper Name
+
+@10 = ~Aelar~
+@1000 = ~Aelar's Emporium~
+
+// Sounds for Aelar
+
+@20 = ~The fair folk rarely have time for small talk.~ [Ael01]
+@21 = ~Troubled times are upon us.~ [Ael02]
+@22 = ~Soon we shall all be together on Evermeet.~ [Ael03]
+@23 = ~~ [AelHurt]
+@24 = ~~ [AelDie]
+
+// Dialogue for Aelar
+
+@30 = ~Hail, and well met traveler! Welcome to Aelar's Magical Emporium! I am Aelar and it would be my pleasure to show you the array of items that I have available for sale today!~
+@31 = ~Welcome back traveler! Can I interest you in any of my wares today?~
+@32 = ~I understand. Thank you for your patronage. May the gods protect you on your journey.~
+
+@40 = ~Well met, Aelar. Please show me what wares you have.~
+@41 = ~Please show me what you have for sale.~
+@42 = ~Well met, Aelar. Thank you but I am not interested in purchasing anything.~
+@43 = ~I'm not interested in your wares, thank you.~
