@@ -1,27 +1,20 @@
 # Aelar's Emporium of Magical Wares
-A new store in Waukeen's Promenade filled with magical items for Baldur's Gate II: Enhanced Edition!
+Having travelled a long way from the Northern lands of Faerun, Aelar has now set up shop within Athkatla at Waukeen's Promenade! During the day, he can be found renting out Maheer's store located one level up on the western side. During the night, he will retire to rest before returning the following day to peddle his wares once more! His store contains a vareity of wares that are constantly expanding with new store. At present, you can find an approximate total of thirteen items in his store; a mixture of weapons, armour, accessories and potions!
 
-This mod adds an NPC with a store to the game in Waukeen's Promenade. To install, simply download and run the setup-_SAelar.exe file and follow the setup steps.
+Below is a brief list of what can be found in Aelar's store:
+- A dagger & battle axe pair that are electricity themed.
+- A two-handed sword that hits especially hard on deadly strikes.
+- A cursed morningstar that will sustain the wielder's lifeforce but comes with a dangerous cost.
+- A razor sharp longsword capable at severing heads but require some of the wielder's life and experience as payment.
+- A suit of scale mail armour that provides the wearer with great resistance to physical blows.
+- A helmet that will protect the wearer from severe cold.
+- A ring that will make the wearer harder to hit.
+- A vareity of potions that offer different effects from Stoneskin to Bless.
 
-Once installed, you can find the merchant in Waukeen's Promenade in the building west of Cernd's home and just north-west of the Blacksmith. Aelar provides a vareity of magical wares that are sure to aid you in any adventure you choose to undertake. Some of the items provide simple benefits and bonuses while others provide far more powerful benefits...but they come with a cost/risk.
+# Installation & Compatability
+Extract the contents of the mod to your Baldur's Gate II: Enhanced Edition folder, run the _SAelar.exe file, follow the steps.
 
 There shouldn't be any compatability issues with other mods unless they make use of the same store Aelar is in. This mod should also be fully compatabile with EET.
-
-Below are examples of some of the wares Aelar has to offer!
-
-Vampiric Star +2:
-
-![Baldur_Lwl71y6Qry](https://github.com/ShadowfireAngel/Aelar-Wares/assets/73798461/f27c1b3c-3d39-41b5-9e49-b556822902f9)
-
-Ironclad Scale Mail:
-
-![Baldur_UdBiCTtbXB](https://github.com/ShadowfireAngel/Aelar-Wares/assets/73798461/7a1f2fb2-1e1b-4778-8003-aec873cd2fed)
-
-Headsman's Charge +2:
-
-![Baldur_wssCxugDfc](https://github.com/ShadowfireAngel/Aelar-Wares/assets/73798461/d55e417f-715f-4335-80e2-1042b0f3be58)
-
-Aelar's store of available items is always expanding! Make sure to check back in regularly to see what new stock he has available!
 
 # Known Issues
 - The Enumclaw Dagger provides only one charge of Call Lightning upon purchasing but will still provide two charges after resting.
